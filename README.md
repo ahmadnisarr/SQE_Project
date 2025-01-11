@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple Django-based web application that allows users to vote on various categories. Users can view available categories, vote for their favorite items in each category, and see the voting results in real-time.
+This is the  simple Django-based web application that allow users to vote on various categories. Users can view available categories, vote for their favorite items in each category, and see the voting results in real-time.
 
 <img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/29ead5fe-f86e-458f-9c31-8e3ec80b3476">
 
